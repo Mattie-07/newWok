@@ -1,0 +1,49 @@
+
+
+.cp-backgroundY{
+    background-color: #EFCA08;
+}
+
+.cp-backgroundO{
+    background-color:#F49F0A ;
+}
+
+.cp-textB{
+    color:#BBDEF0;
+}
+
+.cp-textG{
+    color:#00A6A6;
+}
+
+.cp-textW{
+    font-size: 40px;
+    color:rgb(253, 253, 253);
+}
+
+
+.cp-backgroundBlack{
+    background-color: black;
+}
+
+.navbar-brand{
+    font-size: 50px;
+}
+
+.nav-link{
+    font-size:35px;
+    color:black;
+
+}
+
+
+
+.navbar-brand:hover, .nav-link:hover{
+    color:#F49F0A !important;
+    font-style: italic;
+    
+}
+
+.paddings{
+    padding-top: 50px;
+}
